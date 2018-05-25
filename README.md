@@ -38,6 +38,6 @@ npm run dev
 
 <p><img src="https://github.com/fj1203/vue-admin/blob/master/static/data/assetImage.png" /></p>
 <p><img src="https://github.com/fj1203/vue-admin/blob/master/static/data/index.png" /></p>
-<p><img src="https://raw.githubusercontent.com/lanux/Vue-Admin/master/static/data/dash.png?t=1" /></p>
+
 <p><img src="https://github.com/fj1203/vue-admin/blob/master/static/data/roal.png" /></p>
 <p><img src="https://github.com/fj1203/vue-admin/blob/master/static/data/user.png" /></p>
